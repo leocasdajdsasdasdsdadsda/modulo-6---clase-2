@@ -1,0 +1,34 @@
+{
+    "name": "Modulo 6 - Clase 2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.10.34",
+        "tag": "v1.10.34",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d026f937a64c15c6ac4f338585ca2255bb9ac8db",
+        "target": "1.12.39",
+        "pxt": "8.3.7",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
